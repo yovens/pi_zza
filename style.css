@@ -321,8 +321,8 @@ display: flex;
     margin: auto;
     padding: 10px;
     color: #fff;
-    background-color: orange;
-    border: 1px solid orange;
+    background-color: black;
+    border: 1px solid white;
     cursor: pointer;
 }
 
