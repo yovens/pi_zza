@@ -190,7 +190,7 @@ display: flex;
 #menu_col{
       box-shadow: 2px 2px 2px #bbb;
       border: 1px solid #bbb;
-      background-color: #fff;
+      background-color: burlywood;
       margin: 10px;
       padding: 10px;
       flex: 1;
