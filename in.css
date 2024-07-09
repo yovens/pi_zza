@@ -50,7 +50,7 @@ body{
     text-shadow: 2px 2px 2px #000;
 }
 #hero_content h2{
-    color: #fff;
+    color: white;
     font-size: 2.8rem;
     font-family: cursive;
     margin-top: 1rem;
@@ -67,7 +67,7 @@ body{
 }
 
 #hero_content a:hover{
-    background: navy;
+    background: orange;
 }
 
 
@@ -104,19 +104,19 @@ display: flex;
     padding: 3px 15px 3px 15px;
 }
 #navbar ul li:hover,#phone a:hover,#mobile_menu ul li:hover{
-    background: navy;
+    background: white;
     cursor: pointer;
 }
 
 #navbar ul li a{
     text-decoration: none;
-    color: white;
+    color: orange;
     font-size: 1.1rem;
 }
 
 #phone a{
     text-decoration: none;
-    color: white;
+    color: orange;
     font-size: 1.1rem;
     padding: 3px 15px 3px 15px;
     border: 1px solid orange;
@@ -126,7 +126,7 @@ display: flex;
     display: none;
     height: 40px;
     line-height: 40px;
-    background-color: rosybrown;
+    background-color: cornsilk;
 }
 
 #mobile_menu ul{
@@ -140,7 +140,7 @@ display: flex;
 
 #mobile_menu ul li a{
     text-decoration: none;
-    color: #fff;
+    color: orange;
 }
 
 @media screen and (max-width :768px) {
